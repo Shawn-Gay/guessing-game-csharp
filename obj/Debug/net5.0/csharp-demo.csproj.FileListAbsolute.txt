@@ -1,0 +1,16 @@
+C:\Users\shawn\projects\csharp-demo\bin\Debug\net5.0\csharp-demo.exe
+C:\Users\shawn\projects\csharp-demo\bin\Debug\net5.0\csharp-demo.deps.json
+C:\Users\shawn\projects\csharp-demo\bin\Debug\net5.0\csharp-demo.runtimeconfig.json
+C:\Users\shawn\projects\csharp-demo\bin\Debug\net5.0\csharp-demo.runtimeconfig.dev.json
+C:\Users\shawn\projects\csharp-demo\bin\Debug\net5.0\csharp-demo.dll
+C:\Users\shawn\projects\csharp-demo\bin\Debug\net5.0\ref\csharp-demo.dll
+C:\Users\shawn\projects\csharp-demo\bin\Debug\net5.0\csharp-demo.pdb
+C:\Users\shawn\projects\csharp-demo\obj\Debug\net5.0\csharp-demo.csproj.AssemblyReference.cache
+C:\Users\shawn\projects\csharp-demo\obj\Debug\net5.0\csharp-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\projects\csharp-demo\obj\Debug\net5.0\csharp-demo.AssemblyInfoInputs.cache
+C:\Users\shawn\projects\csharp-demo\obj\Debug\net5.0\csharp-demo.AssemblyInfo.cs
+C:\Users\shawn\projects\csharp-demo\obj\Debug\net5.0\csharp-demo.csproj.CoreCompileInputs.cache
+C:\Users\shawn\projects\csharp-demo\obj\Debug\net5.0\csharp-demo.dll
+C:\Users\shawn\projects\csharp-demo\obj\Debug\net5.0\ref\csharp-demo.dll
+C:\Users\shawn\projects\csharp-demo\obj\Debug\net5.0\csharp-demo.pdb
+C:\Users\shawn\projects\csharp-demo\obj\Debug\net5.0\csharp-demo.genruntimeconfig.cache
